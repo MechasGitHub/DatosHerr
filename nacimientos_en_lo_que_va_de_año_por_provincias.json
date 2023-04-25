@@ -1,22 +1,4 @@
-﻿{
-    "Url": "www.epdata.es/nacimientos-va-ano-provincias/36cbdec6-0309-4c90-bbda-f98ed7e1fbcc",
-    "Respuesta": {
-        "Id": "36cbdec6-0309-4c90-bbda-f98ed7e1fbcc",
-        "Url": "www.epdata.es/nacimientos-va-ano-provincias/36cbdec6-0309-4c90-bbda-f98ed7e1fbcc",
-        "Titulo": "Nacimientos en lo que va de año por provincias",
-        "Subtitulo": "",
-        "Datos": {
-            "Metricas": [
-                {
-                    "Id": 0,
-                    "Nombre": "Nacimientos a nivel mensual - Número de personas en lo que va de año para Soria, Ceuta, Ávila, Palencia, Zamora, Segovia, Teruel, Melilla, Cuenca, Ourense, Huesca, Salamanca, Guadalajara, Lugo, Burgos, La Rioja, León, Cáceres, Álava, Albacete, Valladolid, Lleida, Ciudad Real, Cantabria, Castellón, Huelva, Jaén, Asturias, Badajoz, Guipúzcoa , Toledo, Navarra, Pontevedra, Girona, Santa Cruz Tenerife, Córdoba, Tarragona, Zaragoza, A Coruña, Granada, Las Palmas, Vizcaya, Almería, Cádiz, Islas Baleares, Málaga, Murcia, Alicante, Sevilla, Valencia, Barcelona, Madrid como provincia de residencia de la madre",
-                    "SonDatosNumericos": true,
-                    "Fuente": "INE",
-                    "Clasificacion": null,
-                    "Unidad": "Número de personas",
-                    "Escala": "Unidades",
-                    "EscalaFactorPotencia10": 0,
-                    "Datos": [
+﻿[
                         {
                             "Agno": 2022,
                             "Periodo": "Marzo",
@@ -5009,9 +4991,4 @@
                             "Estado": "Definitivo",
                             "Notas": ""
                         }
-                    ]
-                }
-            ]
-        }
-    }
-}
+          ]
