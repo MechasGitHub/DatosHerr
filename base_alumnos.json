@@ -1,0 +1,13 @@
+{
+   "alumnos":[
+    {"alumno":"Ma.Mercedes","nota":9.09,"ranking":100},
+    {"alumno":"Juan","nota":4,"ranking":40},
+    {"alumno":"Samanta","nota":8,"ranking":80},
+    {"alumno":"Mia","nota":3,"ranking":30},
+    {"alumno":"Jesus","nota":4.2,"ranking":40},
+    {"alumno":"Sol","nota":2.2,"ranking":20},
+    {"alumno":"Medardo","nota":1.1,"ranking":10},
+    {"alumno":"Alejandro","nota":5.7,"ranking":50},
+    {"alumno":"Rebeca","nota":6.9,"ranking":60}
+]
+}
